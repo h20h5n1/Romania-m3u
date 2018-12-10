@@ -1,185 +1,79 @@
 #EXTM3U
-#EXTINF:0,Ro- 1 Music Channel
-http://m-iptv.net:6204/firatbrusk/firhc57885/9057
-#EXTINF:0,Ro- Acasa Gold
-http://m-iptv.net:6204/firatbrusk/firhc57885/9056
-#EXTINF:0,Ro- Acasa TV
-http://m-iptv.net:6204/firatbrusk/firhc57885/5904
-#EXTINF:0,Ro- Antena 1
-http://m-iptv.net:6204/firatbrusk/firhc57885/9055
-#EXTINF:0,Ro- Antena 3
-http://m-iptv.net:6204/firatbrusk/firhc57885/9054
-#EXTINF:0,Ro- Antena Stars
-http://m-iptv.net:6204/firatbrusk/firhc57885/9053
-#EXTINF:0,Ro- B1 TV
-http://m-iptv.net:6204/firatbrusk/firhc57885/5798
-#EXTINF:0,Ro- CBS Reality
-http://m-iptv.net:6204/firatbrusk/firhc57885/9051
-#EXTINF:0,Ro- Digi 24
-http://m-iptv.net:6204/firatbrusk/firhc57885/9050
-#EXTINF:0,Ro- Dolce Sport 1 HD
-http://m-iptv.net:6204/firatbrusk/firhc57885/9049
-#EXTINF:0,Ro- Dolce Sport 2 HD
-http://m-iptv.net:6204/firatbrusk/firhc57885/9048
-#EXTINF:0,Ro- HBO
-http://m-iptv.net:6204/firatbrusk/firhc57885/9045
-#EXTINF:0,Ro- Kanal D
-http://m-iptv.net:6204/firatbrusk/firhc57885/9044
-#EXTINF:0,Ro- Kiss TV
-http://m-iptv.net:6204/firatbrusk/firhc57885/9043
-#EXTINF:0,Ro- Na?ional TV
-http://m-iptv.net:6204/firatbrusk/firhc57885/9041
-#EXTINF:0,Ro- National Geographic Wild
-http://m-iptv.net:6204/firatbrusk/firhc57885/9039
-#EXTINF:0,Ro- Prima TV
-http://m-iptv.net:6204/firatbrusk/firhc57885/9038
-#EXTINF:0,Ro- Pro TV
-http://m-iptv.net:6204/firatbrusk/firhc57885/9036
-#EXTINF:0,Ro- Pro TV International
-http://m-iptv.net:6204/firatbrusk/firhc57885/9035
-#EXTINF:0,Ro- Realitatea TV
-http://m-iptv.net:6204/firatbrusk/firhc57885/9034
-#EXTINF:0,Ro- Romania TV
-http://m-iptv.net:6204/firatbrusk/firhc57885/9033
-#EXTINF:0,Ro- Taraf TV
-http://m-iptv.net:6204/firatbrusk/firhc57885/9032
-#EXTINF:0,HU: Happy Channel RO
-http://iptvhosting.org.uk:83/eric1/eric/314463
-#EXTINF:0,Dolce Sp0rt 6 RO
-http://iptvhosting.org.uk:83/eric1/eric/92572
-#EXTINF:0,Dolce Sp0rt 5 RO
-http://iptvhosting.org.uk:83/eric1/eric/92573
-#EXTINF:0,Dolce Sp0rt 2 RO
-http://iptvhosting.org.uk:83/eric1/eric/92574
-#EXTINF:0,Dolce Sp0rt 1 RO
-http://iptvhosting.org.uk:83/eric1/eric/92575
-#EXTINF:0,MegaMax HD RO
-http://iptvhosting.org.uk:83/eric1/eric/92576
-#EXTINF:0,Acasa TV RO
-http://iptvhosting.org.uk:83/eric1/eric/92577
-#EXTINF:0,AGRO TV RO
-http://iptvhosting.org.uk:83/eric1/eric/92578
-#EXTINF:0,ANETENA 1 RO
-http://iptvhosting.org.uk:83/eric1/eric/92579
-#EXTINF:0,Antena 3 RO
-http://iptvhosting.org.uk:83/eric1/eric/92580
-#EXTINF:0,Antena Stars RO
-http://iptvhosting.org.uk:83/eric1/eric/92581
-#EXTINF:0,AXN RO
-http://iptvhosting.org.uk:83/eric1/eric/92582
-#EXTINF:0,AXN Black RO
-http://iptvhosting.org.uk:83/eric1/eric/92583
-#EXTINF:0,AXN White RO
-http://iptvhosting.org.uk:83/eric1/eric/92584
-#EXTINF:0,BT RO
-http://iptvhosting.org.uk:83/eric1/eric/92585
-#EXTINF:0,Cinemax 2 RO
-http://iptvhosting.org.uk:83/eric1/eric/92587
-#EXTINF:0,DIGI 24 RO
-http://iptvhosting.org.uk:83/eric1/eric/92588
-#EXTINF:0,DIGI 24 CRAIOVA RO
-http://iptvhosting.org.uk:83/eric1/eric/92589
-#EXTINF:0,DIGI ANIMAL WORLD RO
-http://iptvhosting.org.uk:83/eric1/eric/92590
-#EXTINF:0,Digi Film RO
-http://iptvhosting.org.uk:83/eric1/eric/92591
-#EXTINF:0,Digi Life RO
-http://iptvhosting.org.uk:83/eric1/eric/92592
-#EXTINF:0,Digi Sp0rt 1 RO
-http://iptvhosting.org.uk:83/eric1/eric/92593
-#EXTINF:0,Digi Sp0rt 2 RO
-http://iptvhosting.org.uk:83/eric1/eric/92594
-#EXTINF:0,Digi Sp0rt 3 RO
-http://iptvhosting.org.uk:83/eric1/eric/92595
-#EXTINF:0,Digi Sp0rt 4 RO
-http://iptvhosting.org.uk:83/eric1/eric/92596
-#EXTINF:0,Digi World RO
-http://iptvhosting.org.uk:83/eric1/eric/92597
-#EXTINF:0,Digi24 RO
-http://iptvhosting.org.uk:83/eric1/eric/92598
-#EXTINF:0,Disney Junior RO
-http://iptvhosting.org.uk:83/eric1/eric/92599
-#EXTINF:0,Etno Tv RO
-http://iptvhosting.org.uk:83/eric1/eric/92600
-#EXTINF:0,EuroSp0rt 1 RO
-http://iptvhosting.org.uk:83/eric1/eric/92601
-#EXTINF:0,EuroSp0rt 2 RO
-http://iptvhosting.org.uk:83/eric1/eric/92602
-#EXTINF:0,FISHING & HUNTING RO
-http://iptvhosting.org.uk:83/eric1/eric/92603
-#EXTINF:0,Happy RO
-http://iptvhosting.org.uk:83/eric1/eric/92604
-#EXTINF:0,HBO 2 RO
-http://iptvhosting.org.uk:83/eric1/eric/92605
-#EXTINF:0,HBO 3 RO
-http://iptvhosting.org.uk:83/eric1/eric/92606
-#EXTINF:0,HBO Romania RO
-http://iptvhosting.org.uk:83/eric1/eric/92607
-#EXTINF:0,HISTORI CHANNEL RO
-http://iptvhosting.org.uk:83/eric1/eric/92608
-#EXTINF:0,History RO
-http://iptvhosting.org.uk:83/eric1/eric/92609
-#EXTINF:0,Hit Music Channel RO
-http://iptvhosting.org.uk:83/eric1/eric/92610
-#EXTINF:0,Kanal D RO
-http://iptvhosting.org.uk:83/eric1/eric/92611
-#EXTINF:0,Kiss RO
-http://iptvhosting.org.uk:83/eric1/eric/92612
-#EXTINF:0,Look Plus RO
-http://iptvhosting.org.uk:83/eric1/eric/92613
-#EXTINF:0,Megamax RO
-http://iptvhosting.org.uk:83/eric1/eric/92614
-#EXTINF:0,Minimax RO
-http://iptvhosting.org.uk:83/eric1/eric/92615
-#EXTINF:0,Music Channe hu RO
-http://iptvhosting.org.uk:83/eric1/eric/92616
-#EXTINF:0,Music Channel RO
-http://iptvhosting.org.uk:83/eric1/eric/92617
-#EXTINF:0,NatGeographic RO
-http://iptvhosting.org.uk:83/eric1/eric/92618
-#EXTINF:0,NATIONAL Geo wild RO
-http://iptvhosting.org.uk:83/eric1/eric/92619
-#EXTINF:0,Nat Geo Wild RO
-http://iptvhosting.org.uk:83/eric1/eric/92620
-#EXTINF:0,Neptun RO
-http://iptvhosting.org.uk:83/eric1/eric/92621
-#EXTINF:0,Noe RO
-http://iptvhosting.org.uk:83/eric1/eric/92622
-#EXTINF:0,Paramount Channel RO
-http://iptvhosting.org.uk:83/eric1/eric/92623
-#EXTINF:0,Prima RO
-http://iptvhosting.org.uk:83/eric1/eric/92624
-#EXTINF:0,prima cool RO
-http://iptvhosting.org.uk:83/eric1/eric/92625
-#EXTINF:0,Prima Love RO
-http://iptvhosting.org.uk:83/eric1/eric/92626
-#EXTINF:0,Pro Cinema RO
-http://iptvhosting.org.uk:83/eric1/eric/92627
-#EXTINF:0,Pro TV RO
-http://iptvhosting.org.uk:83/eric1/eric/92628
-#EXTINF:0,Realitatea TV RO
-http://iptvhosting.org.uk:83/eric1/eric/92629
-#EXTINF:0,Realtaea TV RO
-http://iptvhosting.org.uk:83/eric1/eric/92630
-#EXTINF:0,Romania Tv RO
-http://iptvhosting.org.uk:83/eric1/eric/92631
-#EXTINF:0,Taraf TV RO
-http://iptvhosting.org.uk:83/eric1/eric/92633
-#EXTINF:0,TeleMoldovaPlus RO
-http://iptvhosting.org.uk:83/eric1/eric/92634
-#EXTINF:0,TNT RO
-http://iptvhosting.org.uk:83/eric1/eric/92635
-#EXTINF:0,Trinitas RO
-http://iptvhosting.org.uk:83/eric1/eric/92636
-#EXTINF:0,TV 1000 RO
-http://iptvhosting.org.uk:83/eric1/eric/92637
-#EXTINF:0,TVR 1 RO
-http://iptvhosting.org.uk:83/eric1/eric/92640
-#EXTINF:0,TVR 2 RO
-http://iptvhosting.org.uk:83/eric1/eric/92641
-#EXTINF:0,U TV RO
-http://iptvhosting.org.uk:83/eric1/eric/92642
-#EXTINF:0,VIASAT EXPLORER RO
-http://iptvhosting.org.uk:83/eric1/eric/92643
-#EXTINF:0,Viasat Nature RO
-http://iptvhosting.org.uk:83/eric1/eric/92644
+#EXTINF:0,----------| Romania |----------
+http://formen1.com:8080/live/ada104/1414ss/10663.ts
+#EXTINF:0,Ro | Antena Stars
+http://formen1.com:8080/live/ada104/1414ss/16702.ts
+#EXTINF:0,Ro | AXN
+http://formen1.com:8080/live/ada104/1414ss/16703.ts
+#EXTINF:0,Ro | AXN Black
+http://formen1.com:8080/live/ada104/1414ss/16704.ts
+#EXTINF:0,Ro | AXN White
+http://formen1.com:8080/live/ada104/1414ss/16705.ts
+#EXTINF:0,Ro | B1
+http://formen1.com:8080/live/ada104/1414ss/16711.ts
+#EXTINF:0,Ro | Digi 24 HD
+http://formen1.com:8080/live/ada104/1414ss/16707.ts
+#EXTINF:0,Ro | DIGI Animal World
+http://formen1.com:8080/live/ada104/1414ss/16708.ts
+#EXTINF:0,Ro | Digi Life
+http://formen1.com:8080/live/ada104/1414ss/16709.ts
+#EXTINF:0,Ro | Digi World
+http://formen1.com:8080/live/ada104/1414ss/16710.ts
+#EXTINF:0,Ro | Disney Channel
+http://formen1.com:8080/live/ada104/1414ss/16712.ts
+#EXTINF:0,Ro | Disney Junior
+http://formen1.com:8080/live/ada104/1414ss/16713.ts
+#EXTINF:0,Ro | ETNO TV
+http://formen1.com:8080/live/ada104/1414ss/16717.ts
+#EXTINF:0,Ro | Eurosport 2
+http://formen1.com:8080/live/ada104/1414ss/16715.ts
+#EXTINF:0,Ro | Fishing & Hunting
+http://formen1.com:8080/live/ada104/1414ss/16718.ts
+#EXTINF:0,Ro | Happy Channel
+http://formen1.com:8080/live/ada104/1414ss/16719.ts
+#EXTINF:0,Ro | HAPPY TV
+http://formen1.com:8080/live/ada104/1414ss/16706.ts
+#EXTINF:0,Ro | HBO 1
+http://formen1.com:8080/live/ada104/1414ss/16734.ts
+#EXTINF:0,Ro | HBO 2
+http://formen1.com:8080/live/ada104/1414ss/16733.ts
+#EXTINF:0,Ro | HBO 3
+http://formen1.com:8080/live/ada104/1414ss/16732.ts
+#EXTINF:0,Ro | KANAL D
+http://formen1.com:8080/live/ada104/1414ss/16720.ts
+#EXTINF:0,Ro | Kiss TV
+http://formen1.com:8080/live/ada104/1414ss/16721.ts
+#EXTINF:0,Ro | MiniMax
+http://formen1.com:8080/live/ada104/1414ss/16722.ts
+#EXTINF:0,Ro | Music Channel
+http://formen1.com:8080/live/ada104/1414ss/16723.ts
+#EXTINF:0,Ro | Music Channel HU
+http://formen1.com:8080/live/ada104/1414ss/16714.ts
+#EXTINF:0,Ro | Nat Geo Wild
+http://formen1.com:8080/live/ada104/1414ss/16724.ts
+#EXTINF:0,Ro | National Geographic
+http://formen1.com:8080/live/ada104/1414ss/16725.ts
+#EXTINF:0,Ro | Nickelodeon
+http://formen1.com:8080/live/ada104/1414ss/16726.ts
+#EXTINF:0,Ro | Paramount Channel
+http://formen1.com:8080/live/ada104/1414ss/16727.ts
+#EXTINF:0,Ro | PRO CINEMA
+http://formen1.com:8080/live/ada104/1414ss/16730.ts
+#EXTINF:0,Ro | PRO TV
+http://formen1.com:8080/live/ada104/1414ss/16731.ts
+#EXTINF:0,Ro | Realitatea TV
+http://formen1.com:8080/live/ada104/1414ss/16728.ts
+#EXTINF:0,Ro | Romania TV
+http://formen1.com:8080/live/ada104/1414ss/16729.ts
+#EXTINF:0,Ro | SPORT ROMANIA
+http://formen1.com:8080/live/ada104/1414ss/16716.ts
+#EXTINF:0,Ro | Taraf TV
+http://formen1.com:8080/live/ada104/1414ss/16736.ts
+#EXTINF:0,Ro | TV 1000
+http://formen1.com:8080/live/ada104/1414ss/16737.ts
+#EXTINF:0,Ro | TVR1
+http://formen1.com:8080/live/ada104/1414ss/16738.ts
+#EXTINF:0,Ro | TVR2
+http://formen1.com:8080/live/ada104/1414ss/16701.ts
+#EXTINF:0,Ro | Viasat History
+http://formen1.com:8080/live/ada104/1414ss/16735.ts
